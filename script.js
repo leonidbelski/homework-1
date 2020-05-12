@@ -18,7 +18,6 @@
 
   appData.expenses[firstQuestion] = secondQuestion;
 
-
   console.log(appData);
   alert('Бюджет на 1 день: ' + countMoneyDay);
 }());
